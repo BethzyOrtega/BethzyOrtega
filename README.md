@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Bethzy Ortega
 
-I'm a Front-End Jr developer♥  
+I'm a Front-End developer♥  
 #### Contact me: 
 <a href="https://www.linkedin.com/in/bethzy-ortega-medina-82b9b9168/">  
 <img align="left" alt="Bethzy Ortega LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
